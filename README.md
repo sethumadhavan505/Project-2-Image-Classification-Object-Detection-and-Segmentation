@@ -57,7 +57,7 @@ Mask R-CNN is a deep learning model for object detection and instance segmentati
 ## Usage
 To run the code, first clone the repository:
 ```bash
-git clone https://github.com/mbar0075/Image-Classification-Object-Detection-and-Segmentation.git
+git clone https://github.com/sethumadhavan505/Project-2-Image-Classification-Object-Detection-and-Segmentation.git
 ```
 
 Then, create the following environments:
